@@ -3,6 +3,7 @@
 ## Overview
 
 This project is an **Automated PDF Summarizer** that extracts and summarizes key points from uploaded PDF documents using **AI and NLP**. The application consists of a **Flask backend** and a **React frontend**, designed to process PDFs, extract text, summarize content, and present it in a clean UI.
+<img width="1470" alt="Screenshot" src="https://github.com/user-attachments/assets/e1fe42f0-bcbf-4907-a2a7-e9e22aaa58a9" />
 
 ## Key Features
 
